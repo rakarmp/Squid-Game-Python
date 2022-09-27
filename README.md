@@ -1,8 +1,9 @@
 # squid-game-python
 
-Don't forget to install the library first using `pip install ursina` and enjoy!
+Instalasinya :
+- pip install ursina (wajib ya)
 
-+++ PYTHON +++
++++ PYTHON Library +++
 
 Colaboration People
 - FujaTrust
